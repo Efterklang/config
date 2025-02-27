@@ -1,7 +1,7 @@
 # 🍚Dotfiles
 
 1. [🍚Dotfiles](#dotfiles)
-   1. [🏞️Privew](#️privew)
+   1. [🏞️Preview](#️preview)
    2. [📦Packages](#packages)
    3. [🧩Applications](#applications)
       1. [VSCode](#vscode)
@@ -14,7 +14,7 @@
       1. [Nushell](#nushell)
       2. [Oh My Posh](#oh-my-posh)
 
-## 🏞️Privew
+## 🏞️Preview
 
 | ![Desktop](assets/desktop.webp) | ![browser](assets/browser.webp)  |
 | :-----------------------------: | :---------------------------: |
@@ -71,7 +71,7 @@ scoop import ./scoop-packages.json
   - [delta](https://dandavison.github.io/delta/installation.html): A syntax-highlighting pager for git, diff, and grep output
   - [tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
 - TUI Tools
-  - [helix](https://github.com/helix-eiditor/helix): A post-modern modal text editor.
+  - [helix](https://github.com/helix-editor/helix): A post-modern modal text editor.
   - [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
   - [yazi](https://github.com/sxyazi/yazi): 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
